@@ -233,6 +233,7 @@ Hurray! You successfully made a contribution!
   - [Douglas Franklin Idamezhim](https://github.com/Idamezhim)
   - [Drishika Chauhan](https://github.com/drishika2002)
   - [Drishtant Dubey](https://github.com/DRISHTANT-DUBEY)
+  - [Drishti Rana](https://github.com/dishi24)
   - [Dušan Tanasić](https://github.com/Duk4/)
 
 - ### **E**
